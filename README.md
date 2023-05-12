@@ -11,6 +11,7 @@ Where you can find me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-shinde)](https://github.com/harshal-shinde/github-readme-stats)
 
+[![Harshals's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshal-shinde)](https://github.com/harshal-shinde/github-readme-stats)
 
 
 **Tech Stack**  
