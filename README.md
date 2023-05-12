@@ -7,7 +7,7 @@ Where you can find me
 
 
 
-![Harshals's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal-shinde&show_icons=true&theme=radical)
+![Harshals's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal-shinde&show_icons=true&theme=transparent)
 
 
 
